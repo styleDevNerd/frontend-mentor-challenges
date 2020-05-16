@@ -5,5 +5,6 @@ My Submission for the Frontend Mentor Challenges
 2. Single Price Grid Component
 3. Huddle Landing Page With Alternating Feature Blocks
 4. Huddle Landing Page With Single Introductory
+5. Fylo Landing Page With Two Column Layout
 
 See them live [here](https://frontend-mentor-challenges-ashy.now.sh/)
